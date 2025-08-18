@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT & Systems Projects:</h2>
 
 - <b>vCenter Homelab</b>
-  - [vCenter and ESXi Homelab](https://github.com/blakedenzeljones/LABURL)
+  - [vCenter Homelab]([https://github.com/blakedenzeljones/vCenterLab])
 - <b>Windows Server Administration</b>
   - [Windows Server 2022](https://github.com/blakedenzeljones/LABURL) <b><i>
 - <b>PowerShell</b>
