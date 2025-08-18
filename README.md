@@ -1,6 +1,6 @@
 <h1>Hey, I'm Blake! <br/><a 
                            
-<h2>👨‍💻 IT & Systems Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
 - <b>vCenter Homelab</b>
   - [vCenter Homelab](https://github.com/blakedenzeljones/vCenterLab)
