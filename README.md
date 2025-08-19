@@ -9,7 +9,7 @@
   - [Windows Server 2022](https://github.com/blakedenzeljones/LABURL) <b><i>
 - <b>PowerShell</b>
   - [Self Service Windows 11 Upgrade using Intune](https://github.com/blakedenzeljones/Powershell-Windows-11-Upgrade)
-  - [Microsoft Teams Clean-up Script](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Microsoft Teams Clean-up Script](https://github.com/blakedenzeljones/Microsoft-Teams-Cleanup-Script)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Bash</b>
