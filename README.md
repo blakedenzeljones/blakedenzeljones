@@ -10,14 +10,10 @@
 - <b>PowerShell</b>
   - [Self Service Windows 11 Upgrade using Intune](https://github.com/blakedenzeljones/Powershell-Windows-11-Upgrade)
   - [Microsoft Teams Clean-up Script](https://github.com/blakedenzeljones/Microsoft-Teams-Cleanup-Script)
-  - [Active Directory Bulk User Creation](https://github.com/LABURL)
-  - [FIM (File Integrity Monitor)](https://github.com/LABURL)
 - <b>Bash</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/LABURL)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/LABURL)
-  - [Keylogger with Email Capability](https://github.com/LABURL)
+  - Coming Soon
 - <b>Java</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/LABURL)
+  - Coming Soon
 
 
 
