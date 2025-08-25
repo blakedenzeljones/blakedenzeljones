@@ -10,9 +10,9 @@
 - <b>PowerShell</b>
   - [Self Service Windows 11 Upgrade using Intune](https://github.com/blakedenzeljones/Powershell-Windows-11-Upgrade)
   - [Microsoft Teams Clean-up Script](https://github.com/blakedenzeljones/Microsoft-Teams-Cleanup-Script)
-- <b>Bash</b>
+- <b>Linux</b>
   - Coming Soon
-- <b>Java</b>
+- <b>Bash</b>
   - Coming Soon
 
 
