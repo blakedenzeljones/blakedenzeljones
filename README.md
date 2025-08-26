@@ -15,7 +15,8 @@
 - <b>Bash</b>
   - Coming Soon
 - <b>Other Projects</b>
-  - Coming Soon
+  - 🔗 [Visit my TryHackMe profile](https://tryhackme.com/p/blakedenzeljones)
+)
 
 
 
