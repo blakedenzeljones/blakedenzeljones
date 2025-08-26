@@ -14,6 +14,8 @@
   - Coming Soon
 - <b>Bash</b>
   - Coming Soon
+- <b>Other Projects</b>
+  - Coming Soon
 
 
 
