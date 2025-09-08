@@ -5,7 +5,7 @@
 
 - <b>Virtualization</b>
   - [vCenter Homelab](https://github.com/blakedenzeljones/vCenterLab)
-  - [ESXi Configuration](https://github.com/blakedenzeljones/LABURL)
+  - [ESXi Configuration](https://github.com/blakedenzeljones/ESXi-Configuration)
 - <b>Windows Server Administration</b>
   - [Windows Server 2022](https://github.com/blakedenzeljones/Windows-Server-2022) <b><i>
 - <b>PowerShell</b>
