@@ -3,8 +3,9 @@
                            
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>vCenter Homelab</b>
+- <b>Virtualization</b>
   - [vCenter Homelab](https://github.com/blakedenzeljones/vCenterLab)
+  - [ESXi Configuration](https://github.com/blakedenzeljones/LABURL)
 - <b>Windows Server Administration</b>
   - [Windows Server 2022](https://github.com/blakedenzeljones/Windows-Server-2022) <b><i>
 - <b>PowerShell</b>
